@@ -1,7 +1,7 @@
 # 🎁 Amigo Secreto
 
 ## 📌 Descripción del Proyecto
-Este proyecto es una aplicación web que permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Como reto adicional, se creó la interfaz utilizando **HTML y CSS personalizados**.
+Este proyecto es una aplicación web que permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
 En este proyecto decidí agregar el reto de crear mi propia página de **HTML y CSS** de forma sencilla. En mi lógica, decidí que los nombres ingresados se almacenaran en un **array (lista)**. Implementé validaciones para manejar diferentes situaciones, como:
 
